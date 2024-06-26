@@ -1,27 +1,174 @@
-body {
-    font-family: Arial, sans-serif;
-}
-header, footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 1em 0;
-}
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-.product {
-    border: 1px solid #ccc;
-    padding: 10px;
-    margin: 10px;
-    text-align: center;
-}
+    @font-face {
+        font-family: 'Bahnschrift';
+        src: url('Bahnschrift.woff2') format('woff2'),
+            url('Bahnschrift.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    h1{
+        font-family: 'Bahnschrift';
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+    }
+  
+    /* Header */
+    header {
+        background-color: #2b2b2b;
+        padding: 15px 60px;
+    }
+    
+    .navigation {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 20px; 
+    }
+    
+    .logo{
+        font-size: 1.5em;
+        text-decoration: none;
+        color: #fff5ad;
+        font-weight: bold;
+    }
+    
+    .navigation ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+    
+    .navigation li {
+        margin-left: 20px;
+    }
+    
+    .navigation a {
+        display: block;
+        padding: 10px 20px;
+        text-decoration: none;
+        color: #ffd862;
+    }
+    .navigation a:hover {
+        background-color: #333; 
+        color: #fff; 
+        transition: background-color 0.3s ease; 
+    }
+  /* End Header */
+
+
+  /* Footer */
+    footer{
+        background-color: #121315;
+        color: #a7a7a7;
+        padding: 30px;
+        margin: 0;
+        min-height:auto;
+        display: flex;
+        align-items: flex-end;
+    }
+
+    footer * {
+        font-family: “Poppins”, sans-serif;
+        box-sizing: border-box;
+        border: none;
+        outline: none;
+    }
+  
+    .row {
+        padding: 1em 1em;
+    }
+    .row.primary {
+        display: grid;
+        grid-template-columns: 2fr 1fr 2fr;
+        grid-gap: 20px;
+        
+        align-items: stretch;
+        
+    }
+    .column {
+        width: 100%;
+        display: flex;
+        align-items: left;
+        flex-direction: column;
+        padding: 0 2em;
+        min-height: 15em;
+    }
+    h3 {
+        width: 100%;
+        text-align: left;
+        color: #fff5ad;
+        font-size: 1em;
+        white-space: nowrap;
+        line-height: 50%;
+    }
+    h2 {
+        width: 100%;
+        text-align: left;
+        color: #cccccc;
+        font-size: 2em;
+        line-height: 0%;
+        white-space: nowrap;
+    }
+    .about p {
+        text-align: justify;
+        line-height: 2;
+        margin: 0;
+    }
+    div.social {
+        display: flex;
+        justify-content: space-around;
+        font-size: 2.4em;
+        flex-direction: row;
+        margin-top: 0.5em;
+    }
+    .social i {
+        color: #bac6d9;
+    }
+    
+    ul {
+        list-style: none;
+    }
+    ul li a {
+        color: #fff5ad;
+        text-decoration: none;
+    }
+    ul li a:hover {
+        color: #2a8ded;
+    }
+
+    .copyright {
+        padding: 0.3em 1em;
+        background-color: #2b2b2b;
+    }
+    .footer-menu{
+        float: left;
+        margin-top: 10px;
+    }
+    .footer-menu a{
+        color: #cfd2d6;
+        padding: 6px;
+        text-decoration: none;
+    }
+    .footer-menu a:hover{
+        color: #27bcda;
+    }
+    .copyright p {
+        font-size: 0.9em;
+        text-align: right;
+        color: #cfd2d6;
+    }
+  /* End footer */
+
+      
+
+      
+
+      
+      
+   
