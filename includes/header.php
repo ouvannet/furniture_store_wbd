@@ -12,7 +12,7 @@
       <a href="#" class="logo">FURNITURE STORE.</a>
       <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="./webpage/about.php">About</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
