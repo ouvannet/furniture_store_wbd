@@ -17,13 +17,12 @@
         font-family: sans-serif;
     }
   
-    /* Header */
     header {
         background-color: #2b2b2b;
         padding: 15px 60px;
     }
     
-    .navigation {
+    /* .navigation {
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -33,7 +32,6 @@
     .logo{
         font-size: 1.5em;
         text-decoration: none;
-        color: #fff5ad;
         font-weight: bold;
     }
     
@@ -52,17 +50,14 @@
         display: block;
         padding: 10px 20px;
         text-decoration: none;
-        color: #ffd862;
     }
     .navigation a:hover {
         background-color: #333; 
         color: #fff; 
         transition: background-color 0.3s ease; 
     }
-  /* End Header */
 
 
-  /* Footer */
     footer{
         background-color: #121315;
         color: #a7a7a7;
@@ -163,9 +158,8 @@
         text-align: right;
         color: #cfd2d6;
     }
-  /* End footer */
 
-      
+       */
 
       
 

@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Header</title>
+  <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="assets/css/style.css">
+  
 </head>
 <body>
 <header>
@@ -12,11 +14,13 @@
       <a href="#" class="logo">FURNITURE STORE.</a>
       <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="./webpage/about.php">About</a></li>
+        <li><a href="#">About</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
     </nav>
-  </header>
+    
+  </section>
+  <script src="https://unpkg.com/@themesberg/flowbite@1.1.1/dist/flowbite.bundle.js"></script>
   </body>
 </html>
