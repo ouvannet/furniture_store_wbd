@@ -20,6 +20,10 @@
             <?php include ('webpage/contact.php'); ?>
         <?php } elseif($_GET['look']=='about'){ ?>
             <?php include ('webpage/about.php'); ?>
+        <?php } elseif($_GET['look']=='login'){ ?>
+            <?php include ('webpage/login.php'); ?>
+        <?php } elseif($_GET['look']=='invoice'){ ?>
+            <?php include ('webpage/invoice.php'); ?>
         <?php } ?>
     <?php }else{ ?>
             <?php include ('webpage/home.php'); ?>
@@ -107,7 +111,10 @@
                         <p class="text-sm text-gray-700">including VAT</p>
                     </div>
                     </div>
-                    <button class="mt-6 w-full rounded-md bg-blue-500 py-1.5 font-medium text-blue-50 hover:bg-blue-600">Check out</button>
+                    <a href="index.php?look=invoice">
+
+                        <button class="mt-6 w-full rounded-md bg-blue-500 py-1.5 font-medium text-blue-50 hover:bg-blue-600">Check out</button>
+                    </a>
                 </div>
             </div>
         </div>
