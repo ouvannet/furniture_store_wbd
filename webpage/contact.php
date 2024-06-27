@@ -41,8 +41,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
                             </svg>
                             <div class="ml-4 text-md tracking-wide font-semibold w-40">
-                                Acme Inc, Street, State,
-                                Postal Code
+                            #254, St.143 S/K Boeng Kengkang 3, Khan Chamkamon
                             </div>
                         </div>
 
