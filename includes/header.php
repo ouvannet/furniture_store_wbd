@@ -7,8 +7,10 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="assets/css/style.css">
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js" defer></script>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
+  <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" /> -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
+  <link rel="stylesheet" href="https://demos.creative-tim.com/notus-js/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css">
+
 </head>
 <body>
   <?php 
@@ -16,9 +18,9 @@
       return "/ST15_Year3_Se1/WBD/furniture_website/".$morepath;
     }
   ?>
-  <section class="relative mx-auto" style="z-index:9999999;">
+  <section class="relative mx-auto w-full" style="z-index:9999999;">
       <!-- navbar -->
-    <nav class="flex justify-between bg-gray-900 text-white w-screen">
+    <nav class="flex justify-between bg-gray-900 text-white">
       <div class="px-5 xl:px-8 py-3 flex w-full items-center">
         <a class="text-3xl font-bold font-heading" href="#">
           <img class="h-[70px]" src="<?= baseURL('assets/images/logo.png') ?>" alt="logo">
