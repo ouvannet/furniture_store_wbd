@@ -7,18 +7,22 @@
 </head>
 <body>
     <?php require_once 'includes/header.php'; ?>
-    <?php if($_GET['look']=='home'){ ?>
-        <?php include ('webpage/home.php'); ?>
-    <?php } elseif($_GET['look']=='category'){ ?>
-        <?php include ('webpage/category.php'); ?>
-    <?php } elseif($_GET['look']=='service'){ ?>
-        <?php include ('webpage/service.php'); ?>
-    <?php } elseif($_GET['look']=='blog'){ ?>
-        <?php include ('webpage/blog.php'); ?>
-    <?php } elseif($_GET['look']=='contact'){ ?>
-        <?php include ('webpage/contact.php'); ?>
-    <?php } elseif($_GET['look']=='about'){ ?>
-        <?php include ('webpage/about.php'); ?>
+    <?php if(isset($_GET['look'])){ ?>
+        <?php if($_GET['look']=='home'){ ?>
+            <?php include ('webpage/home.php'); ?>
+        <?php } elseif($_GET['look']=='category'){ ?>
+            <?php include ('webpage/category.php'); ?>
+        <?php } elseif($_GET['look']=='service'){ ?>
+            <?php include ('webpage/service.php'); ?>
+        <?php } elseif($_GET['look']=='blog'){ ?>
+            <?php include ('webpage/blog.php'); ?>
+        <?php } elseif($_GET['look']=='contact'){ ?>
+            <?php include ('webpage/contact.php'); ?>
+        <?php } elseif($_GET['look']=='about'){ ?>
+            <?php include ('webpage/about.php'); ?>
+        <?php } ?>
+    <?php }else{ ?>
+            <?php include ('webpage/home.php'); ?>
     <?php } ?>
     <?php include 'includes/footer.php'; ?>
 </body>
