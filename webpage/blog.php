@@ -1,4 +1,3 @@
-<?php require_once '../includes/header.php'; ?>
 <!-- This is an example component -->
 <section class="flex flex-row flex-wrap mx-auto">
 <!-- Card Component -->
@@ -10,7 +9,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\4.jpg"
+          src="assets\images\Furniture pic\4.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -107,7 +106,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2024-06-17_08-09-42.jpg"
+              src="assets\image\photo_2024-06-17_08-09-42.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -131,7 +130,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\3751.jpg"
+          src="assets\images\Furniture pic\3751.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -228,7 +227,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2022-10-14_21-05-14.jpg"
+              src="assets\image\photo_2022-10-14_21-05-14.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -252,7 +251,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\anacastudio_emi-pod-21.jpg"
+          src="assets\images\Furniture pic\anacastudio_emi-pod-21.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -373,7 +372,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\BB-Bed-Charles-05.jpg"
+          src="assets\images\Furniture pic\BB-Bed-Charles-05.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -470,7 +469,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2023-12-19_09-34-33.jpg"
+              src="assets\image\photo_2023-12-19_09-34-33.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -494,7 +493,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\DWR_FolkShelving-1.jpg"
+          src="assets\images\Furniture pic\DWR_FolkShelving-1.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -615,7 +614,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Gloss-MKII.jpg"
+          src="assets\images\Furniture pic\Gloss-MKII.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -712,7 +711,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2024-06-17_08-09-42.jpg"
+              src="assets\image\photo_2024-06-17_08-09-42.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -736,7 +735,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\HabitusLiving-MINOTTI-_-Bellagio-Outdoor-Dining-Table-_-Yoko-Cord-Outdoor-Dining-Chairs-_-Cesar-Outdoor.jpg"
+          src="assets\images\Furniture pic\HabitusLiving-MINOTTI-_-Bellagio-Outdoor-Dining-Table-_-Yoko-Cord-Outdoor-Dining-Chairs-_-Cesar-Outdoor.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -833,7 +832,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2022-10-14_21-05-14.jpg"
+              src="assets\image\photo_2022-10-14_21-05-14.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -857,7 +856,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\InSituSofa01.jpg"
+          src="assets\images\Furniture pic\InSituSofa01.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -978,7 +977,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Lariana2.jpg"
+          src="assets\images\Furniture pic\Lariana2.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -1075,7 +1074,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2023-12-19_09-34-33.jpg"
+              src="assets\image\photo_2023-12-19_09-34-33.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -1099,7 +1098,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Luxury Interior Design.jpg"
+          src="assets\images\Furniture pic\Luxury Interior Design.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -1220,7 +1219,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Modrest Aspen Modern Beige Bonded Leather & Gold Bed.jpg"
+          src="assets\images\Furniture pic\Modrest Aspen Modern Beige Bonded Leather & Gold Bed.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -1317,7 +1316,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2024-06-17_08-09-42.jpg"
+              src="assets\image\photo_2024-06-17_08-09-42.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -1341,7 +1340,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Outline 3 Seater Sofa in Cognac Leather.jpg"
+          src="assets\images\Furniture pic\Outline 3 Seater Sofa in Cognac Leather.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -1438,7 +1437,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2022-10-14_21-05-14.jpg"
+              src="assets\image\photo_2022-10-14_21-05-14.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -1462,7 +1461,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Pao-HabitusLiving.jpg"
+          src="assets\images\Furniture pic\Pao-HabitusLiving.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -1583,7 +1582,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Planeta-Ceiling-Lamp.jpg"
+          src="assets\images\Furniture pic\Planeta-Ceiling-Lamp.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -1680,7 +1679,7 @@
           <div class="flex items-center flex-1">
             <img
               class="object-cover h-10 rounded-full"
-              src="..\assets\image\photo_2023-12-19_09-34-33.jpg"
+              src="assets\image\photo_2023-12-19_09-34-33.jpg"
               alt="Avatar"
             />
             <div class="flex flex-col mx-2">
@@ -1704,7 +1703,7 @@
     >
       <div class="md:flex-shrink-0">
         <img
-          src="..\assets\images\Furniture pic\Sika-Design.jpg"
+          src="assets\images\Furniture pic\Sika-Design.jpg"
           alt="Blog Cover"
           class="object-fill w-full rounded-lg rounded-b-none md:h-56"
         />
@@ -1817,4 +1816,3 @@
     </div>
   </div>
 </section>
-    <?php include '../includes/footer.php'; ?>

@@ -30,7 +30,7 @@
         <!-- Nav Links -->
         <ul class="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12">
         <li>
-            <a href="<?= baseURL('index.php') ?>" class="bg-orange-700 md:bg-transparent text-white block pl-3 pr-4 py-2 md:text-orange-700 md:p-0 rounded focus:outline-none" aria-current="page">Home</a>
+            <a href="index.php?look=home" class="bg-orange-700 md:bg-transparent text-white block pl-3 pr-4 py-2 md:text-orange-700 md:p-0 rounded focus:outline-none" aria-current="page">Home</a>
             </li>
             <li>
               <div x-data="{ open: false }" class="relative inline-block text-left">
@@ -121,16 +121,16 @@
               </div>
             </li>
             <li>
-            <a href="webpage\service.php" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">Services</a>
+            <a href="index.php?look=service" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">Services</a>
             </li>
             <li>
-            <a href="#" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">Blog</a>
+            <a href="index.php?look=blog" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">Blog</a>
             </li>
             <li>
-            <a href="<?= baseURL('webpage\contact.php') ?>" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">Contact</a>
+            <a href="index.php?look=contact" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">Contact</a>
             </li>
             <li>
-            <a href="<?= baseURL('webpage\about.php') ?>" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">About us</a>
+            <a href="index.php?look=about" class="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0">About us</a>
             </li>
         </ul>
         <!-- Header Icons -->
