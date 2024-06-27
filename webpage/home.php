@@ -1,4 +1,4 @@
-
+<?php require_once '../includes/header.php'; ?>
 <div class="p-[30px]">
     <div class="w-full">
         <div class="flex bg-white" style="height:600px;">
@@ -243,4 +243,5 @@
         </div>
     <?php } ?>
 </div>
+<?php include '../includes/footer.php'; ?>
 
