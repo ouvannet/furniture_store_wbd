@@ -113,6 +113,95 @@
         </main>
     </div>
 </div>
+<!-- <div class="p-[30px]">
+    <div class="2xl:container 2xl:mx-auto md:py-12 lg:px-20 md:px-6 py-9 px-4">
+        <div class="grid lg:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:grap-8 md:gap-6 gap-4 mt-10">
+        <?php $listimg=['','','',''];
+        foreach ($listimg as $img) { ?>
+            <div class="relative group">
+            <img src="https://i.ibb.co/DwcwgDP/pexels-chevanon-photography-1108099-1.png" alt="2 puppies" class="lg:block hidden w-full" />
+            <div class="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full"></div>
+            <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
+                <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M42.6665 10.6665H21.3332C15.4421 10.6665 10.6665 15.4421 10.6665 21.3332V42.6665C10.6665 48.5575 15.4421 53.3332 21.3332 53.3332H42.6665C48.5575 53.3332 53.3332 48.5575 53.3332 42.6665V21.3332C53.3332 15.4421 48.5575 10.6665 42.6665 10.6665Z" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M32 40C36.4183 40 40 36.4183 40 32C40 27.5817 36.4183 24 32 24C27.5817 24 24 27.5817 24 32C24 36.4183 27.5817 40 32 40Z" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M44 20V20.001" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </div>
+            </div>
+        <?php } ?>
+        </div>
+    </div>
+</div> -->
+<div class="p-[30px]" >
+    <div class="lg:px-20 md:px-6 px-4 md:py-12 py-8">
+    <!--- more free and premium Tailwind CSS components at https://tailwinduikit.com/ --->
+    <div class="lg:flex items-center justify-between">
+        <div class="lg:w-1/3">
+        <h1 class="text-4xl font-semibold leading-9 text-black">Indoor Interiors</h1>
+        <p class="text-base leading-6 mt-4 text-black">Get inspired by our curated selection of luxiwood interiors. We hope get inspired to have luxiwood interior yourself. You’ll find tips here where you can buy a lot of cool furniture.</p>
+        <button role="button" aria-label="view catalogue" class="focus:ring-2 focus:ring-offset-2 focus:ring-gray-700 focus:outline-none mt-6 md:mt-8 text-base font-semibold leading-none text-black flex items-center hover:underline">
+            View Catalogue
+            <svg class="ml-2 mt-1 dark:text-white" width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M1.33325 4H10.6666" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M8 6.66667L10.6667 4" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M8 1.33398L10.6667 4.00065" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </button>
+        </div>
+        <div class="lg:w-7/12 lg:mt-0 mt-8">
+        <div class="w-full h-full bg-red-200">
+            <img src="https://i.ibb.co/cbyDY74/pexels-max-vakhtbovych-6782351-1-1.png" alt="apartment design" class="w-full sm:block hidden" />
+            <img src="https://i.ibb.co/ZVPGjGJ/pexels-max-vakhtbovych-6782351-1.png" alt="apartment design" class="sm:hidden block w-full" />
+        </div>
+        <div class="grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 lg:gap-8 gap-6 lg:mt-8 md:mt-6 mt-4">
+            <img src="https://i.ibb.co/4Jrp5TB/pexels-max-vakhtbovych-6782370-1.png" class="w-full" alt="kitchen" />
+            <img src="https://i.ibb.co/0Jv3FSy/pexels-max-vakhtbovych-6436799-1-1.png" class="w-full" alt="sitting room" />
+        </div>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="flex flex-wrap gap-[50px] items-center justify-center p-[30px]">
+    <?php for ($i=0; $i < 2; $i++) { ?>
+        <div class="flex flex-col justify-center">
+            <div class="relative flex flex-col md:flex-row md:space-x-5 space-y-3 md:space-y-0 rounded-xl shadow-lg p-3 max-w-[100px] md:max-w-[500px] mx-auto border border-white bg-white">
+                <div class="w-full md:w-[30%] bg-white grid place-items-center">
+                    <img src="https://images.pexels.com/photos/4381392/pexels-photo-4381392.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="tailwind logo" class="rounded-xl" />
+                </div>
+                <div class="w-full md:w-[70%] bg-white flex flex-col space-y-2 p-3">
+                    <div class="flex justify-between item-center">
+                        <p class="text-gray-500 text-[12px] hidden md:block">Vacations</p>
+                        <div class="flex items-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20" fill="currentColor">
+                                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                            </svg>
+                            <p class="text-gray-600 font-bold text-[10px] ml-1">
+                                4.96
+                                <span class="text-gray-500 font-normal">(76 reviews)</span>
+                            </p>
+                        </div>
+                        <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-pink-500" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                        <div class="bg-gray-200 px-3 py-1 rounded-full text-[11px] font-medium text-gray-800 hidden md:block">
+                            Superhost
+                        </div>
+                    </div>
+                    <h3 class="font-black text-gray-800  text-[15px]">The Majestic and Wonderful Bahamas</h3>
+                    <p class=" text-gray-500 text-[10px]">The best kept secret of The Bahamas is the country’s sheer
+                        size and diversity. With 16 major islands, The Bahamas is an unmatched destination</p>
+                    <p class="text-[12px] font-black text-gray-800">
+                        $110
+                        <span class="font-normal text-gray-600 text-[12px]">/night</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    <?php } ?>
+</div>
 <div class="p-[30px]">
     <section class="relative pt-16 bg-blueGray-50">
         <div class="container mx-auto">
@@ -201,47 +290,124 @@
 
 
 
-
-
-<div class="flex flex-wrap gap-[10px] items-center justify-center p-[30px]">
-    <?php for ($i=0; $i < 4; $i++) { ?>
-        <div class="flex flex-col justify-center">
-            <div class="relative flex flex-col md:flex-row md:space-x-5 space-y-3 md:space-y-0 rounded-xl shadow-lg p-3 max-w-[100px] md:max-w-[500px] mx-auto border border-white bg-white">
-                <div class="w-full md:w-[30%] bg-white grid place-items-center">
-                    <img src="https://images.pexels.com/photos/4381392/pexels-photo-4381392.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="tailwind logo" class="rounded-xl" />
+<div class="p-[30px]">
+    <div class="flex justify-center items-center">
+    <!--- more free and premium Tailwind CSS components at https://tailwinduikit.com/ --->
+    <div class="2xl:mx-auto 2xl:container lg:px-20 lg:py-16 md:py-12 md:px-6 py-9 px-4 w-96 sm:w-auto">
+        <div role="main" class="flex flex-col items-center justify-center">
+        <h1 class="text-4xl font-semibold leading-9 text-center text-black">This Week Blogs</h1>
+        <p class="text-base leading-normal text-center text-black mt-4 lg:w-1/2 md:w-10/12 w-11/12">If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough</p>
+        </div>
+        <div class="lg:flex items-stretch md:mt-12 mt-8">
+        <div class="lg:w-1/2">
+            <div class="sm:flex items-center justify-between xl:gap-x-8 gap-x-6">
+            <div class="sm:w-1/2 relative">
+                <div>
+                <p class="p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0">12 April 2021</p>
+                <div class="absolute bottom-0 left-0 p-6">
+                    <h2 class="text-xl font-semibold 5 text-white">The Decorated Ways</h2>
+                    <p class="text-base leading-4 text-white mt-2">Dive into minimalism</p>
+                    <a href="javascript:void(0)" class="focus:outline-none focus:underline flex items-center mt-4 cursor-pointer text-white hover:text-gray-200 hover:underline">
+                    <p class="pr-2 text-sm font-medium leading-none">Read More</p>
+                    <svg class="fill-stroke" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.75 12.5L10.25 8L5.75 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    </a>
                 </div>
-                <div class="w-full md:w-[70%] bg-white flex flex-col space-y-2 p-3">
-                    <div class="flex justify-between item-center">
-                        <p class="text-gray-500 text-[12px] hidden md:block">Vacations</p>
-                        <div class="flex items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20" fill="currentColor">
-                                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                            </svg>
-                            <p class="text-gray-600 font-bold text-[10px] ml-1">
-                                4.96
-                                <span class="text-gray-500 font-normal">(76 reviews)</span>
-                            </p>
-                        </div>
-                        <div class="">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-pink-500" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
-                            </svg>
-                        </div>
-                        <div class="bg-gray-200 px-3 py-1 rounded-full text-[11px] font-medium text-gray-800 hidden md:block">
-                            Superhost
-                        </div>
-                    </div>
-                    <h3 class="font-black text-gray-800  text-[15px]">The Majestic and Wonderful Bahamas</h3>
-                    <p class=" text-gray-500 text-[10px]">The best kept secret of The Bahamas is the country’s sheer
-                        size and diversity. With 16 major islands, The Bahamas is an unmatched destination</p>
-                    <p class="text-[12px] font-black text-gray-800">
-                        $110
-                        <span class="font-normal text-gray-600 text-[12px]">/night</span>
-                    </p>
+                </div>
+                <img src="https://i.ibb.co/DYxtCJq/img-1.png" class="w-full" alt="chair" />
+            </div>
+            <div class="sm:w-1/2 sm:mt-0 mt-4 relative">
+                <div>
+                <p class="p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0">12 April 2021</p>
+                <div class="absolute bottom-0 left-0 p-6">
+                    <h2 class="text-xl font-semibold 5 text-white">The Decorated Ways</h2>
+                    <p class="text-base leading-4 text-white mt-2">Dive into minimalism</p>
+                    <a href="javascript:void(0)" class="focus:outline-none focus:underline flex items-center mt-4 cursor-pointer text-white hover:text-gray-200 hover:underline">
+                    <p class="pr-2 text-sm font-medium leading-none">Read More</p>
+                    <svg class="fill-stroke" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.75 12.5L10.25 8L5.75 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    </a>
+                </div>
+                </div>
+                <img src="https://i.ibb.co/3C5HvxC/img-2.png" class="w-full" alt="wall design" />
+            </div>
+            </div>
+            <div class="relative">
+            <div>
+                <p class="md:p-10 p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0">12 April 2021</p>
+                <div class="absolute bottom-0 left-0 md:p-10 p-6">
+                <h2 class="text-xl font-semibold 5 text-white">The Decorated Ways</h2>
+                <p class="text-base leading-4 text-white mt-2">Dive into minimalism</p>
+                <a href="javascript:void(0)" class="focus:outline-none focus:underline flex items-center mt-4 cursor-pointer text-white hover:text-gray-200 hover:underline">
+                    <p class="pr-2 text-sm font-medium leading-none">Read More</p>
+                    <svg class="fill-stroke" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5.75 12.5L10.25 8L5.75 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </a>
                 </div>
             </div>
+            <img src="https://i.ibb.co/Ms4qyXp/img-3.png" alt="sitting place" class="w-full mt-8 md:mt-6 hidden sm:block" />
+            <img class="w-full mt-4 sm:hidden" src="https://i.ibb.co/6XYbN7f/Rectangle-29.png" alt="sitting place" />
+            </div>
         </div>
-    <?php } ?>
+        <div class="lg:w-1/2 xl:ml-8 lg:ml-4 lg:mt-0 md:mt-6 mt-4 lg:flex flex-col justify-between">
+            <div class="relative">
+            <div>
+                <p class="md:p-10 p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0">12 April 2021</p>
+                <div class="absolute bottom-0 left-0 md:p-10 p-6">
+                <h2 class="text-xl font-semibold 5 text-white">The Decorated Ways</h2>
+                <p class="text-base leading-4 text-white mt-2">Dive into minimalism</p>
+                <a href="javascript:void(0)" class="focus:outline-none focus:underline flex items-center mt-4 cursor-pointer text-white hover:text-gray-200 hover:underline">
+                    <p class="pr-2 text-sm font-medium leading-none">Read More</p>
+                    <svg class="fill-stroke" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5.75 12.5L10.25 8L5.75 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </a>
+                </div>
+            </div>
+            <img src="https://i.ibb.co/6Wfjf2w/img-4.png" alt="sitting place" class="w-full sm:block hidden" />
+            <img class="w-full sm:hidden" src="https://i.ibb.co/dpXStJk/Rectangle-29.png" alt="sitting place" />
+            </div>
+            <div class="sm:flex items-center justify-between xl:gap-x-8 gap-x-6 md:mt-6 mt-4">
+            <div class="relative w-full">
+                <div>
+                <p class="p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0">12 April 2021</p>
+                <div class="absolute bottom-0 left-0 p-6">
+                    <h2 class="text-xl font-semibold 5 text-white">The Decorated Ways</h2>
+                    <p class="text-base leading-4 text-white mt-2">Dive into minimalism</p>
+                    <a href="javascript:void(0)" class="focus:outline-none focus:underline flex items-center mt-4 cursor-pointer text-white hover:text-gray-200 hover:underline">
+                    <p class="pr-2 text-sm font-medium leading-none">Read More</p>
+                    <svg class="fill-stroke" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.75 12.5L10.25 8L5.75 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    </a>
+                </div>
+                </div>
+                <img src="https://i.ibb.co/3yvZBpm/img-5.png" class="w-full" alt="chair" />
+            </div>
+            <div class="relative w-full sm:mt-0 mt-4">
+                <div>
+                <p class="p-6 text-xs font-medium leading-3 text-white absolute top-0 right-0">12 April 2021</p>
+                <div class="absolute bottom-0 left-0 p-6">
+                    <h2 class="text-xl font-semibold 5 text-white">The Decorated Ways</h2>
+                    <p class="text-base leading-4 text-white mt-2">Dive into minimalism</p>
+                    <a href="javascript:void(0)" class="focus:outline-none focus:underline flex items-center mt-4 cursor-pointer text-white hover:text-gray-200 hover:underline">
+                    <p class="pr-2 text-sm font-medium leading-none">Read More</p>
+                    <svg class="fill-stroke" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.75 12.5L10.25 8L5.75 3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    </a>
+                </div>
+                </div>
+                <img src="https://i.ibb.co/gDdnJb5/img-6.png" class="w-full" alt="wall design" />
+            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    </div>
 </div>
 <?php include '../includes/footer.php'; ?>
 

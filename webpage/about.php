@@ -1,5 +1,4 @@
 
-<?php require_once '../includes/header.php'; ?>
 <link
   crossorigin="anonymous"
   href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.3.2/swiper-bundle.css"
@@ -53,7 +52,7 @@
             <div class="relative">
               <div class="relative">
               <img
-                src="../assets/image/photo_2022-10-14_21-05-14.jpg"
+                src="assets/image/photo_2022-10-14_21-05-14.jpg"
                 alt="aji"
                 class="object-cover w-full h-60 mx-auto rounded-t-2xl"
               />
@@ -81,7 +80,7 @@
             <div class="">
                 <div class="relative">
               <img
-                src="../assets/image/photo_2024-06-17_08-09-42.jpg"
+                src="assets/image/photo_2024-06-17_08-09-42.jpg"
                 alt="aji"
                 class="object-cover w-full mx-auto rounded-t-2xl h-60"
               />
@@ -109,7 +108,7 @@
             <div class="">
                <div class="relative">
               <img
-                src="../assets/image/photo_2023-12-19_09-34-33.jpg"
+                src="assets/image/photo_2023-12-19_09-34-33.jpg"
                 alt="aji"
                 class="object-cover w-full mx-auto rounded-t-2xl h-60"
               />
@@ -144,7 +143,6 @@ A house is made with walls and beams; a home is built with love and dreams.
   </div>
 </div>
 </div>
-<?php include '../includes/footer.php'; ?>
 <script
   crossorigin="anonymous"
   defer

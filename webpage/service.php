@@ -16,10 +16,9 @@
     background-color:rgb(14 211 207);
   }
 </style>
-<?php require_once '../includes/header.php'; ?>
 <!-- ====== Services Section Start -->
 <div class="bg-no-repeat bg-cover bg-center relative" style="background-image: url(https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/best-furniture-for-your-home-2022-section-1.jpg);">
-<div class="absolute bg-gradient-to-r from-gray-900 to-gray-900 opacity-75 inset-0 z-0"></div>    
+<!-- <div class="absolute bg-gradient-to-r from-gray-900 to-gray-900 opacity-75 inset-0 z-0"></div>     -->
 
 
 <section class="pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]">
@@ -162,4 +161,3 @@
 </section>
 </div>
 <!-- ====== Services Section End -->
-<?php include '../includes/footer.php'; ?>
