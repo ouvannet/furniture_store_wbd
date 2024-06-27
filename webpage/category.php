@@ -14,12 +14,15 @@
 </style>
 
 <?php require_once '../includes/header.php'; ?>
+<br><br><br>
 <!-- Main Page -->
 <section id="mainpage">
 <!-- UI card from https://uxplanet.org/ultimate-guide-for-designing-ui-cards-59488a91b44f -->
-
+      <div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Shop By Category</h1>
+      </div>
   <div class="relative m-3 flex flex-wrap mx-auto justify-center">
-
+    
     <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
       <div class="overflow-x-hidden rounded-2xl relative">
         <a href="#bedroom">
@@ -125,19 +128,24 @@
 </section>
 <!-- End Main Page -->
 
+<br><br><br><br>
+
 <!-- bedroom -->
 <section id="bedroom">
+<div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">All Products</h1>
+      </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="hidden sm:block w-full" src="https://i.ibb.co/HxXSY0j/jason-wang-Nx-Awry-Abt-Iw-unsplash-1-1.png" alt="sofa" />
-        
-        <img class="sm:hidden w-full" src="https://i.ibb.co/B6qwqPT/jason-wang-Nx-Awry-Abt-Iw-unsplash-1.png" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\4.jpg" alt="sofa" />
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bedroom component</p>
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bedroom component (Click here to return to Category List)</p>
+          
         </div>
+        
         </a>
       </div>
     </div>
@@ -380,10 +388,9 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="hidden sm:block w-full" src="https://i.ibb.co/HxXSY0j/jason-wang-Nx-Awry-Abt-Iw-unsplash-1-1.png" alt="sofa" />
-        <img class="sm:hidden w-full" src="https://i.ibb.co/B6qwqPT/jason-wang-Nx-Awry-Abt-Iw-unsplash-1.png" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\Gloss-MKII.jpg" alt="sofa" />
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bathroom Equipment
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bathroom Equipment (Click here to return to Category List)
           </p>
           
         </div>
@@ -629,10 +636,9 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="hidden sm:block w-full" src="https://i.ibb.co/HxXSY0j/jason-wang-Nx-Awry-Abt-Iw-unsplash-1-1.png" alt="sofa" />
-        <img class="sm:hidden w-full" src="https://i.ibb.co/B6qwqPT/jason-wang-Nx-Awry-Abt-Iw-unsplash-1.png" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\The-Art-or-Porcelain-with-Greg-Natale-and-Kaolin-2.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Living Room Component
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Living Room Component (Click here to return to Category List)
           </p>
           
         </div>
@@ -878,10 +884,9 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="hidden sm:block w-full" src="https://i.ibb.co/HxXSY0j/jason-wang-Nx-Awry-Abt-Iw-unsplash-1-1.png" alt="sofa" />
-        <img class="sm:hidden w-full" src="https://i.ibb.co/B6qwqPT/jason-wang-Nx-Awry-Abt-Iw-unsplash-1.png" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\3751.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Office Equipment
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Office Equipment (Click here to return to Category List)
           </p>
           
         </div>
@@ -1127,10 +1132,9 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="hidden sm:block w-full" src="https://i.ibb.co/HxXSY0j/jason-wang-Nx-Awry-Abt-Iw-unsplash-1-1.png" alt="sofa" />
-        <img class="sm:hidden w-full" src="https://i.ibb.co/B6qwqPT/jason-wang-Nx-Awry-Abt-Iw-unsplash-1.png" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\Raleigh New Home Floor Plans by Ashton Woods.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Kitchen Furniture
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Kitchen Furniture (Click here to return to Category List)
           </p>
           
         </div>
@@ -1376,10 +1380,9 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="hidden sm:block w-full" src="https://i.ibb.co/HxXSY0j/jason-wang-Nx-Awry-Abt-Iw-unsplash-1-1.png" alt="sofa" />
-        <img class="sm:hidden w-full" src="https://i.ibb.co/B6qwqPT/jason-wang-Nx-Awry-Abt-Iw-unsplash-1.png" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\the perfect outdoor chair.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Outdoor Furniture
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Outdoor Furniture (Click here to return to Category List)
           </p>
           
         </div>
@@ -1619,16 +1622,15 @@
 <!-- End Outdoor -->
 
 <!-- Deck -->
-<section id="Deck">
+<section id="deck">
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="hidden sm:block w-full" src="https://i.ibb.co/HxXSY0j/jason-wang-Nx-Awry-Abt-Iw-unsplash-1-1.png" alt="sofa" />
-        <img class="sm:hidden w-full" src="https://i.ibb.co/B6qwqPT/jason-wang-Nx-Awry-Abt-Iw-unsplash-1.png" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\3+ Innovative Outdoor Deck Ideas for Small Spaces • 333+ Art Images.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Deck Furniture
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Deck Furniture (Click here to return to Category List)
           </p>
           
         </div>
