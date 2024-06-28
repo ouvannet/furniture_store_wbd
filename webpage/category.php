@@ -13,7 +13,6 @@
 
 </style>
 
-<?php require_once '../includes/header.php'; ?>
 <br><br><br>
 <!-- Main Page -->
 <section id="mainpage">
@@ -26,7 +25,7 @@
     <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
       <div class="overflow-x-hidden rounded-2xl relative">
         <a href="#bedroom">
-        <img class="h-40 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\4.jpg">
+        <img class="h-40 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\4.jpg">
       </div>
       <div class="mt-4 pl-2 mb-2 flex justify-between ">
         <div>
@@ -40,7 +39,7 @@
     <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
       <div class="overflow-x-hidden rounded-2xl relative">
         <a href="#bathroom">
-        <img class="h-40 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\Gloss-MKII.jpg">
+        <img class="h-40 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\Gloss-MKII.jpg">
       </div>
       <div class="mt-4 pl-2 mb-2 flex justify-between ">
         <div>
@@ -54,7 +53,7 @@
     <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
       <div class="overflow-x-hidden rounded-2xl relative">
       <a href="#livingroom">
-        <img class="h-40 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\The-Art-or-Porcelain-with-Greg-Natale-and-Kaolin-2.jpg">
+        <img class="h-40 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\The-Art-or-Porcelain-with-Greg-Natale-and-Kaolin-2.jpg">
       </div>
       <div class="mt-4 pl-2 mb-2 flex justify-between ">
         <div>
@@ -68,7 +67,7 @@
     <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
       <div class="overflow-x-hidden rounded-2xl relative">
       <a href="#office">
-        <img class="h-40 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\3751.jpg">
+        <img class="h-40 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\3751.jpg">
       </div>
       <div class="mt-4 pl-2 mb-2 flex justify-between ">
         <div>
@@ -85,7 +84,7 @@
 <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
   <div class="overflow-x-hidden rounded-2xl relative">
     <a href="#kitchen">
-    <img class="h-40 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\Raleigh New Home Floor Plans by Ashton Woods.jpg">
+    <img class="h-40 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\Raleigh New Home Floor Plans by Ashton Woods.jpg">
   </div>
   <div class="mt-4 pl-2 mb-2 flex justify-between ">
     <div>
@@ -99,7 +98,7 @@
 <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
   <div class="overflow-x-hidden rounded-2xl relative">
     <a href="#outdoor">
-    <img class="h-40 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\the perfect outdoor chair.jpg">
+    <img class="h-40 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\the perfect outdoor chair.jpg">
   </div>
   <div class="mt-4 pl-2 mb-2 flex justify-between ">
     <div>
@@ -113,7 +112,7 @@
 <div class="relative max-w-sm min-w-[340px] bg-white shadow-md rounded-3xl p-2 mx-1 my-3 cursor-pointer">
   <div class="overflow-x-hidden rounded-2xl relative">
   <a href="#deck">
-    <img class="h-40 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\3+ Innovative Outdoor Deck Ideas for Small Spaces • 333+ Art Images.jpg">
+    <img class="h-40 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\3+ Innovative Outdoor Deck Ideas for Small Spaces • 333+ Art Images.jpg">
   </div>
   <div class="mt-4 pl-2 mb-2 flex justify-between ">
     <div>
@@ -140,7 +139,7 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\4.jpg" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\4.jpg" alt="sofa" />
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
           <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bedroom component (Click here to return to Category List)</p>
           
@@ -388,7 +387,7 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\Gloss-MKII.jpg" alt="sofa" />
+        <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\Gloss-MKII.jpg" alt="sofa" />
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
           <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bathroom Equipment (Click here to return to Category List)
           </p>
@@ -636,7 +635,7 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\The-Art-or-Porcelain-with-Greg-Natale-and-Kaolin-2.jpg" alt="sofa" /> 
+        <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\The-Art-or-Porcelain-with-Greg-Natale-and-Kaolin-2.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
           <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Living Room Component (Click here to return to Category List)
           </p>
@@ -884,7 +883,7 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\3751.jpg" alt="sofa" /> 
+        <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\3751.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
           <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Office Equipment (Click here to return to Category List)
           </p>
@@ -1132,7 +1131,7 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\Raleigh New Home Floor Plans by Ashton Woods.jpg" alt="sofa" /> 
+        <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\Raleigh New Home Floor Plans by Ashton Woods.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
           <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Kitchen Furniture (Click here to return to Category List)
           </p>
@@ -1380,7 +1379,7 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\the perfect outdoor chair.jpg" alt="sofa" /> 
+        <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\the perfect outdoor chair.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
           <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Outdoor Furniture (Click here to return to Category List)
           </p>
@@ -1628,7 +1627,7 @@
     <div class="flex flex-col justify-center">
       <div class="relative">
       <a href="#mainpage">
-        <img class="h-60 rounded-2xl w-full object-cover" src="..\assets\images\Furniture pic\3+ Innovative Outdoor Deck Ideas for Small Spaces • 333+ Art Images.jpg" alt="sofa" /> 
+        <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\3+ Innovative Outdoor Deck Ideas for Small Spaces • 333+ Art Images.jpg" alt="sofa" /> 
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
           <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Deck Furniture (Click here to return to Category List)
           </p>
@@ -1869,6 +1868,5 @@
 </section>
 <!-- End Outdoor -->
 
-    <?php include '../includes/footer.php'; ?>
 </body>
 </html>

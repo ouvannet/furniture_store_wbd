@@ -1,4 +1,3 @@
-<?php require_once '../includes/header.php'; ?>
 <div class="p-[30px]">
     <div class="w-full">
         <div class="flex bg-white" style="height:600px;">
@@ -287,9 +286,6 @@
         </div>
     </section>
 </div>
-
-
-
 <div class="p-[30px]">
     <div class="flex justify-center items-center">
     <!--- more free and premium Tailwind CSS components at https://tailwinduikit.com/ --->
@@ -409,5 +405,4 @@
     </div>
     </div>
 </div>
-<?php include '../includes/footer.php'; ?>
 

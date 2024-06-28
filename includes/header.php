@@ -106,7 +106,7 @@
                         <div x-show="subMenuOpen" @click.away="subMenuOpen = false"  @mouseover="subMenuOpen = true" class="absolute pl-5 top-0 left-full ml-0 w-full">
                           <div class="  rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 px-2 py-2">
                             <?php foreach ($value as $sub) { ?>
-                              <a rel="noopener" href="" class="flex px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"><?= $sub ?></a>
+                              <a rel="noopener" href="index.php?look=category" class="flex px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"><?= $sub ?></a>
                             <?php } ?>
                           </div>
                         </div>
