@@ -127,12 +127,12 @@
 </section>
 <!-- End Main Page -->
 
-<br><br><br><br>
+<br><br><br>
 
 <!-- bedroom -->
 <section id="bedroom">
 <div class="flex flex-col justify-center items-center ">
-        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">All Products</h1>
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Bedroom Furniture</h1>
       </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
@@ -149,8 +149,8 @@
       </div>
     </div>
     <div class="mt-10 grid lg:grid-cols-2 gap-x-8 gap-y-8 items-center">
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/q79KfQr/pexels-pixabay-276583-removebg-preview-1.png" alt="sofa-2" />
+      <div class="group group-hover:bg-opacity-60 overflow-x-hidden transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 2 copy 2.png" alt="sofa-2" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -183,8 +183,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/3BbZvtQ/pexels-andrea-piacquadio-3757055-removebg-preview-1.png" alt="sofa-3" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 2 copy.png" alt="sofa-3" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Two Seater Sofa</p>
@@ -217,8 +217,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/DgFfGcm/paul-weaver-n-Wid-MEQsn-AQ-unsplash-removebg-preview-1.png" alt="sofa-4" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700  flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 2.png" alt="sofa-4" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -251,8 +251,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/K6PL38P/pexels-pixabay-276566-removebg-preview-1.png" alt="sofa-5" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 2 copy 2.png" alt="sofa-5" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -288,8 +288,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/zP9sWqP/phillip-goldsberry-f-Zule-Efe-A1-Q-unsplash-1-removebg-preview-1.png" alt="sofa-6" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 2 copy.png" alt="sofa-6" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -322,8 +322,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/SPyYgjw/pexels-martin-p-chy-1866149-removebg-preview-1.png" alt="sofa-7" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 2.png" alt="sofa-7" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -382,6 +382,9 @@
 
 <!-- bathroom -->
 <section id="bathroom">
+<div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Bathroom Furniture</h1>
+      </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">
@@ -397,8 +400,8 @@
       </div>
     </div>
     <div class="mt-10 grid lg:grid-cols-2 gap-x-8 gap-y-8 items-center">
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/q79KfQr/pexels-pixabay-276583-removebg-preview-1.png" alt="sofa-2" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 3 copy 2.png" alt="sofa-2" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -431,8 +434,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/3BbZvtQ/pexels-andrea-piacquadio-3757055-removebg-preview-1.png" alt="sofa-3" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 3.png" alt="sofa-3" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Two Seater Sofa</p>
@@ -465,8 +468,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/DgFfGcm/paul-weaver-n-Wid-MEQsn-AQ-unsplash-removebg-preview-1.png" alt="sofa-4" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 3 copy.png" alt="sofa-4" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -499,8 +502,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/K6PL38P/pexels-pixabay-276566-removebg-preview-1.png" alt="sofa-5" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 3.png" alt="sofa-5" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -536,8 +539,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/zP9sWqP/phillip-goldsberry-f-Zule-Efe-A1-Q-unsplash-1-removebg-preview-1.png" alt="sofa-6" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 3 copy 2.png" alt="sofa-6" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -570,8 +573,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/SPyYgjw/pexels-martin-p-chy-1866149-removebg-preview-1.png" alt="sofa-7" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 3 copy.png" alt="sofa-7" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -630,6 +633,9 @@
 
 <!-- Living ROom -->
 <section id="livingroom">
+<div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Living Room Furniture</h1>
+      </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">
@@ -645,8 +651,8 @@
       </div>
     </div>
     <div class="mt-10 grid lg:grid-cols-2 gap-x-8 gap-y-8 items-center">
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/q79KfQr/pexels-pixabay-276583-removebg-preview-1.png" alt="sofa-2" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 4 copy 2.png" alt="sofa-2" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -679,8 +685,9 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/3BbZvtQ/pexels-andrea-piacquadio-3757055-removebg-preview-1.png" alt="sofa-3" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 4 copy.png
+" alt="sofa-3" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Two Seater Sofa</p>
@@ -713,8 +720,9 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/DgFfGcm/paul-weaver-n-Wid-MEQsn-AQ-unsplash-removebg-preview-1.png" alt="sofa-4" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 4.png
+" alt="sofa-4" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -747,8 +755,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/K6PL38P/pexels-pixabay-276566-removebg-preview-1.png" alt="sofa-5" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 4 copy 2.png" alt="sofa-5" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -784,8 +792,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/zP9sWqP/phillip-goldsberry-f-Zule-Efe-A1-Q-unsplash-1-removebg-preview-1.png" alt="sofa-6" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 4 copy.png" alt="sofa-6" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -818,8 +826,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/SPyYgjw/pexels-martin-p-chy-1866149-removebg-preview-1.png" alt="sofa-7" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 4.png" alt="sofa-7" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -878,6 +886,9 @@
 
 <!-- office -->
 <section id="office">
+<div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Office Furniture</h1>
+      </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">
@@ -893,8 +904,8 @@
       </div>
     </div>
     <div class="mt-10 grid lg:grid-cols-2 gap-x-8 gap-y-8 items-center">
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/q79KfQr/pexels-pixabay-276583-removebg-preview-1.png" alt="sofa-2" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 5 copy 2.png" alt="sofa-2" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -927,8 +938,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/3BbZvtQ/pexels-andrea-piacquadio-3757055-removebg-preview-1.png" alt="sofa-3" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 5 copy.png" alt="sofa-3" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Two Seater Sofa</p>
@@ -961,8 +972,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/DgFfGcm/paul-weaver-n-Wid-MEQsn-AQ-unsplash-removebg-preview-1.png" alt="sofa-4" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 5.png" alt="sofa-4" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -995,8 +1006,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/K6PL38P/pexels-pixabay-276566-removebg-preview-1.png" alt="sofa-5" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 5 copy 2.png" alt="sofa-5" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1032,8 +1043,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/zP9sWqP/phillip-goldsberry-f-Zule-Efe-A1-Q-unsplash-1-removebg-preview-1.png" alt="sofa-6" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 5 copy.png" alt="sofa-6" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1066,8 +1077,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/SPyYgjw/pexels-martin-p-chy-1866149-removebg-preview-1.png" alt="sofa-7" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 5.png" alt="sofa-7" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1126,6 +1137,9 @@
 
 <!-- Kitchen -->
 <section id="kitchen">
+<div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Kitchen Furniture</h1>
+      </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">
@@ -1141,8 +1155,8 @@
       </div>
     </div>
     <div class="mt-10 grid lg:grid-cols-2 gap-x-8 gap-y-8 items-center">
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/q79KfQr/pexels-pixabay-276583-removebg-preview-1.png" alt="sofa-2" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 6 copy 2.png" alt="sofa-2" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1175,8 +1189,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/3BbZvtQ/pexels-andrea-piacquadio-3757055-removebg-preview-1.png" alt="sofa-3" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 6 copy.png" alt="sofa-3" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Two Seater Sofa</p>
@@ -1209,8 +1223,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/DgFfGcm/paul-weaver-n-Wid-MEQsn-AQ-unsplash-removebg-preview-1.png" alt="sofa-4" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 6.png" alt="sofa-4" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1243,8 +1257,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/K6PL38P/pexels-pixabay-276566-removebg-preview-1.png" alt="sofa-5" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 6 copy 2.png" alt="sofa-5" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1280,8 +1294,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/zP9sWqP/phillip-goldsberry-f-Zule-Efe-A1-Q-unsplash-1-removebg-preview-1.png" alt="sofa-6" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 6 copy.png" alt="sofa-6" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1314,8 +1328,8 @@
         </div>
       </div>
 
-      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 sm:p-28 py-36 px-10 flex justify-center items-center">
-        <img class="group-hover:opacity-60 transition duration-500" src="https://i.ibb.co/SPyYgjw/pexels-martin-p-chy-1866149-removebg-preview-1.png" alt="sofa-7" />
+      <div class="group group-hover:bg-opacity-60 transition duration-500 relative bg-gray-50 dark:bg-gray-800 dark:hover:bg-gray-700 flex justify-center items-center">
+        <img class="group-hover:opacity-60 transition duration-500" src="assets\images\Category\Artboard 6.png" alt="sofa-7" />
         <div class="absolute sm:top-8 top-4 left-4 sm:left-8 flex justify-start items-start flex-col space-y-2">
           <div>
             <p class="group-hover:opacity-60 transition duration-500 text-xl leading-5 text-gray-600 dark:text-white">Sectional Sofa</p>
@@ -1374,6 +1388,9 @@
 
 <!-- Outdoor -->
 <section id="outdoor">
+<div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Outdoor Furniture</h1>
+      </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">
@@ -1622,6 +1639,9 @@
 
 <!-- Deck -->
 <section id="deck">
+<div class="flex flex-col justify-center items-center ">
+        <h1 class="text-3xl xl:text-4xl font-semibold leading-7 xl:leading-9 text-gray-800 dark:text-black">Deck Furniture</h1>
+      </div>
 <div class="mx-auto container px-6 xl:px-0 py-12">
   <div class="flex flex-col">
     <div class="flex flex-col justify-center">

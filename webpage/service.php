@@ -17,7 +17,7 @@
   }
 </style>
 <!-- ====== Services Section Start -->
-<div class="bg-no-repeat bg-cover bg-center relative" style="background-image: url(https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/best-furniture-for-your-home-2022-section-1.jpg); opacity:50;">
+<div class="bg-no-repeat bg-cover bg-center relative" style="background-image: url('.../assets/images/Artboard 1-100.jpg'); opacity:50;">
 <!-- <div class="absolute bg-gradient-to-r from-gray-900 to-gray-900 opacity-75 inset-0 z-0"></div>     -->
 
 
