@@ -17,16 +17,16 @@
   }
 </style>
 <!-- ====== Services Section Start -->
-<div class="bg-no-repeat bg-cover bg-center relative" style="background-image: url(https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/best-furniture-for-your-home-2022-section-1.jpg);">
+<div class="bg-no-repeat bg-cover bg-center relative" style="background-image: url(https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/best-furniture-for-your-home-2022-section-1.jpg); opacity:50;">
 <!-- <div class="absolute bg-gradient-to-r from-gray-900 to-gray-900 opacity-75 inset-0 z-0"></div>     -->
 
 
 <section class="pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]">
    <div class="container">
       <div class="flex flex-wrap -mx-4">
-         <div class="w-full px-4">
+         <div class="w-full px-4 ">
             <div class="text-center mx-auto mb-12 lg:mb-20 max-w-[510px]">
-               <span class="font-semibold text-lg text-primary mb-2 block">
+               <span class="font-semibold  text-lg text-primary mb-2 block">
                Our Services
                </span>
                <h2

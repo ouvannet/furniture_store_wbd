@@ -141,7 +141,7 @@
       <a href="#mainpage">
         <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\4.jpg" alt="sofa" />
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bedroom component (Click here to return to Category List)</p>
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-Dark">Bedroom component (Click here to return to Category List)</p>
           
         </div>
         
@@ -389,7 +389,7 @@
       <a href="#mainpage">
         <img class="h-60 rounded-2xl w-full object-cover" src="assets\images\Furniture pic\Gloss-MKII.jpg" alt="sofa" />
         <div class="absolute sm:bottom-8 bottom-4 pr-10 sm:pr-0 left-4 sm:left-8 flex justify-start items-start">
-          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-white">Bathroom Equipment (Click here to return to Category List)
+          <p class="text-3xl sm:text-4xl font-semibold leading-9 text-dark">Bathroom Equipment (Click here to return to Category List)
           </p>
           
         </div>
